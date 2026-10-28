@@ -52,5 +52,5 @@ Final dataset: 27 countries × 11 years = 297 rows, no missing values.
 ## Disclaim
 
 I shared the files 01_eurostat.R and 02_eu_merge.R and results with Claude and prompted 
-the preparation of this document for my own later retrospective purposes. The rest of this
-document above, is by and large, but not all, AI created. 
+the preparation of this README document for my own future retrospective purposes. The rest of this
+markdown file above, is by and large, but not all, AI created. The rest of the work belongs to me.
