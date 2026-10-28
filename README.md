@@ -2,6 +2,9 @@
 title: "notes"
 output: html_document
 ---
+
+[!EU spending relative to national public spending](Rplot_EU_SPENDING_AS_PERC_OF_NAT_SPENDING.png)
+
 # EU spending relative to national public spending, 2014–2024
 
 ## Question
